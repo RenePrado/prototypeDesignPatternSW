@@ -1,1 +1,2 @@
-# prototypeDesignPatternSW
+# Prototype Design Pattern SeatWork
+
